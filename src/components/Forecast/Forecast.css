@@ -1,0 +1,16 @@
+.forecasts__block {
+  display: inline-block;
+  padding: 26px 0;
+  border: 2px solid #fff;
+  text-align: center;
+  font-size: 22px;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.forecasts__block:hover {
+  transition: background-color 0.3s ease-in-out;
+}
+
+.forecasts__icon {
+  vertical-align: middle;
+}

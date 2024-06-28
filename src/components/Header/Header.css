@@ -1,0 +1,13 @@
+.header {
+  padding: 2.563rem 0 2.313rem 0;
+}
+
+.header__heading {
+  display: inline-block;
+  font-size: 1.313rem;
+}
+
+.header__icon {
+  vertical-align: middle;
+  margin-left: 0.3rem;
+}

@@ -1,0 +1,4 @@
+.forecasts__blocks {
+  display: flex;
+  flex-wrap: wrap;
+}
