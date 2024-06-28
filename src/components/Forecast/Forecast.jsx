@@ -24,7 +24,7 @@ function Forecast(props) {
       $backgroundColor={props.backgroundColor}
       $hoverBackgroundColor={props.hoverBackgroundColor}
     >
-      <span className="forecasts__city">{props.name}</span>
+      <span className="forecasts__city">{props.city}</span>
       <div className="forecasts__temp-and-icon">
         <span className="forecasts__temp">{props.temp}</span>
         <DynamicIcon size={65} color="#fff" className="forecasts__icon" />
